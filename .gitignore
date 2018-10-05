@@ -1,0 +1,9 @@
+classes/
+*.class
+.history
+.cache
+.idea/**
+.gradle/*
+build/
+**.iml
+**/target/
